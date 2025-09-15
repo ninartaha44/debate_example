@@ -1,1 +1,26 @@
-img{max-width: 100px}
+figure{
+	max-width: 600px
+}
+
+img{max-width: 100%;
+
+}
+
+*{font-family:Georgia, serif;}
+
+
+h6{
+	color:grey;
+}
+
+figcaption{
+	color:grey;
+}
+
+h1{
+	text-transform: uppercase;
+}
+
+#dem {color:blue;}
+
+#repub {color:red;}
